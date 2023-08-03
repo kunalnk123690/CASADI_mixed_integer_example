@@ -7,4 +7,4 @@ $$ Ax \preceq b $$
 
 $$  x \geq 0 $$
 
-with $g = \begin{bmatrix} -3 \\ -2 \end{bmatrix}$, $A = \begin{bmatrix} 4 & 2 \\ 1 & 2 \\ 1 & 1 \end{bmatrix}$ and $b = \begin{bmatrix} 15 \\ 8 \\ 5 \end{bmatrix}$. This example uses BONMIN solver so make sure you have CASADI compiled from source and installed with BONMIN flag on.
+with $ g = \begin{bmatrix} -3 \\ -2 \end{bmatrix} $, $A = \begin{bmatrix} 4 & 2 \\ 1 & 2 \\ 1 & 1 \end{bmatrix}$ and $b = \begin{bmatrix} 15 \\ 8 \\ 5 \end{bmatrix}$. This example uses BONMIN solver so make sure you have CASADI compiled from source and installed with BONMIN flag on.
